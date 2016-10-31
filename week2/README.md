@@ -1,4 +1,4 @@
-### October 31
+### October 31 ###
 Halloween <br />
 Share schedule
 DNA powerpoint and discussion
