@@ -21,14 +21,14 @@ What happens when you run the following lines of code at the interpreter?
 
 Write your solutions in Sublime Text or any other text editor of your choosing.
 
-##### 1
+##### 1.
 
 Write a function named `square` that returns the square of any number.
 
-##### 2
+##### 2.
 
 Write a function named `favorite_color` that, given the name of any of the interns, returns their favorite color as a string. (You will have to ask your fellow interns for this information!)
 
-##### 3
+##### 3.
 
 Write a function that uses a loop to print a list of your creation.
