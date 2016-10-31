@@ -1,13 +1,13 @@
 # mitogenomics
 Mitochondrial genomics interns @ AMNH
 
-# Week 1 (October 24-26)
+## Week 1 (October 24-26)
 Introductions, exectations, goals
 Project description and department tour
 Diversity of life
 Trees!
 
-# Week 2 (October 31-November 2)
+## Week 2 (October 31-November 2)
 DNA/DNA Replication
 Transcription/Translation (Central Dogma)
 
