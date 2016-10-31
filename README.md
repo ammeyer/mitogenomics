@@ -2,7 +2,7 @@
 Mitochondrial genomics interns @ AMNH
 
 ### Week 1 (October 24-26)
-Introductions, exectations, goals 
+Introductions, exectations, goals <br />
 Project description and department tour
 Diversity of life
 Trees!
