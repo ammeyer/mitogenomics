@@ -9,7 +9,7 @@
  * Compare DNA lengths
  
 ### November 2 ###
-* Central Dogma
+* Central Dogma [powerpoint](https://docs.google.com/presentation/d/1ILqBaRXmYxErNAywIRV1T1XBb5nFvNTs8YrB5yee128/edit#slide=id.p)
  * Transcription
  * Translation
  * Genes -> Proteins
