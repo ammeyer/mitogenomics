@@ -1,7 +1,7 @@
 ### October 31 ###
 * Halloween 
 * Share schedule and GitHub set up
-* DNA powerpoint and discussion 
+* DNA [powerpoint](https://docs.google.com/presentation/d/1GYjijjugRVn4KXsKnk5rTI5SB97_mk37rS_K4ZsCKFU/edit#slide=id.p)  and discussion 
 * Python review 
 * Start coding (pair programming)
  * Count DNA bases
