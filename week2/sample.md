@@ -24,27 +24,17 @@ How is this different from a for loop?
 
 Remember you can always go back to your old code/notes to see how to set up functions, loops, dictionaries, etc.
 
-What is the reverse complement of AAATTTCGCGCG?
-
-
 ```python
-def revcomp(dna, reverse):
-    bases = 'ATGCTACG'
-    complement_dict = {bases[i]:bases[i+4] for i in range(4)} #what is this!?!?!?!?!?!
-    if reverse:
-        dna = reversed(dna)
-    result = [complement_dict[base] for base in dna]
-    return ''.join(result)
+def reverse(s): 
+"""Return the sequence string in reverse order.""" 
+    letters = list(s) 
+    letters.reverse() 
+    return ''.join(letters) 
     
-
-my_dna = 'AAATTTCGCGCG'
-print(revcomp(my_dna, True))
-print(revcomp(my_dna, False))
+print reverse('CCGGAAGAGCTTACTTAG') 
 ```
-
-
-What about the reverse complement of GATTACAGTCAATCCAGGT?
-
+So what about reverse complement?
+What is the reverse complement of CCGGAAGAGCTTACTTAG? (write it out, then code it. remember we have a tool called a dictionary)
 
 
 
