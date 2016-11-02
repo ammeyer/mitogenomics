@@ -20,3 +20,11 @@
 * This is my first time teaching - feedback etc!
 * [Powerpoint](https://docs.google.com/presentation/d/1FQGYTvL81cjKvZv2cQq1xRsa3PG_mA67UbjDNpFRLWY/edit#slide=id.p) - diversity needs explanation
 
+### October 26 ###
+* [Powerpoint](https://docs.google.com/presentation/d/1Y5pl1JU_BNwlNZaKnzXqIX7E1B97OWoNp2m1Uw9owQM/edit) - visualising trees, words/vocab about trees
+* Department tour - meet Louise and Ward
+* Museum tour
+ * 4th Floor phylogenetic trees
+ * Focus on diversity of organisms
+ * Big picture evolution
+ * Trees! 
