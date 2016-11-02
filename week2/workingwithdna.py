@@ -40,5 +40,6 @@ def translate_rna(sequence):
 	"""
 	Returns a string representing the amino acid translation of an mRNA
 	sequence
+	You might need to define more functions to solve this one.
 	"""
 	pass
