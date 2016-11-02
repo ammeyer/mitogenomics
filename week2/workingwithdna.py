@@ -40,6 +40,11 @@ def translate_rna(sequence):
 	"""
 	Returns a string representing the amino acid translation of an mRNA
 	sequence
-	You might need to define more functions to solve this one.
 	"""
 	pass
+
+"""
+What if you wanted to translate from DNA to protein in one function??
+How about implementing the function so that it only starts if there is a start codon (AUG) and ends when it hits stop codons (UAA UGA UAG) 
+"""
+
