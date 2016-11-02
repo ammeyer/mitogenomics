@@ -19,3 +19,7 @@
  * DNA -> RNA -> Protein
  * Test each others code 
 * Discussion: Is replication 100% accurate? What happens when it makes mistakes? What is a mutation? What kinds of mutations are possible?
+
+
+
+If there's time, http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096998#s2
