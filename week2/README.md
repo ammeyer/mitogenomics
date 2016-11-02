@@ -13,6 +13,9 @@
  * Transcription
  * Translation
  * Genes -> Proteins
+* Warm ups, playing with code
 * Coding exercises
  * Complement 
  * DNA -> RNA -> Protein
+ * Test each others code 
+* Discussion: Is replication 100% accurate? What happens when it makes mistakes? What is a mutation? What kinds of mutations are possible?
