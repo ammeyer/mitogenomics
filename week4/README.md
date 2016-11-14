@@ -10,4 +10,5 @@
 
 ### November 16 ###
 * Genomes, the different regions, visualization
+* Using Git
 * Mitochondrial DNA visualization with Geneious 
