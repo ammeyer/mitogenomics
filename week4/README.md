@@ -11,6 +11,6 @@
 
 ### November 16 ###
 * Genomes, the different regions, visualization
-* Using Git
 * Built in functions in python
+* Using Git
 * Mitochondrial DNA visualization with Geneious 
