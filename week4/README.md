@@ -10,7 +10,7 @@
 
 
 ### November 16 ###
-* Genomes, the different regions, visualization
+* [Genomes, the different regions, visualization](https://docs.google.com/presentation/d/1lvyPBBzxAcSK0O90J-lqntAVmFnlvot06UNzgnnjYGw/edit#slide=id.p)
 * Built in functions in python
 * Mitochondrial DNA visualization with Geneious
 * Programs from last time
