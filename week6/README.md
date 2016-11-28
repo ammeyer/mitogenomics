@@ -7,6 +7,7 @@
 * Sequence alignment with [Biopython](http://biopython.org/DIST/docs/api/Bio.pairwise2-module.html)
  * try shorter sequences then try the ones above
 * Forward and backward thinking ... what did we do last week that you can continue working on? what can you do now to make next week easier?
+ * Hint! How to query genbank within a python script
  * Hint! Thinking about database design for genes and genomes
 
 ### November 30 ###
