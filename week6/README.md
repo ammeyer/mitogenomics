@@ -1,4 +1,5 @@
 ### November 28 ###
+* Stand up
 * Sequence alignment with [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
  * [chimp1](https://www.ncbi.nlm.nih.gov/nuccore/JF727179.2) vs [chimp2](https://www.ncbi.nlm.nih.gov/nuccore/JF727176.2)
  * [human](https://www.ncbi.nlm.nih.gov/nuccore/GU170821.1) vs [chimp](https://www.ncbi.nlm.nih.gov/nuccore/JF727179.2)
