@@ -12,8 +12,7 @@
  * Hint! Thinking about database design for genes and genomes
 
 ### November 30 ###
+* What did we do Monday?
 * Pseudocode --> code : compare nuclear genes to mitochondrial genes for base content
 * What makes a downloaded sequence 'better'? Brainstorm
-* What did we do Monday?
-* Continue to work on problems you encountered
-* Field trip :)
+* Continue to work on monday work
