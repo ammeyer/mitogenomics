@@ -36,7 +36,7 @@ Fasta files
 Project organization
 
 ### Week 9 (December 19-21) 
-Recursion? 
+Present on projects so far
 
 ### Week 10 (January 9-11)
 Review
