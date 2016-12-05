@@ -21,19 +21,19 @@ Evolution small picture<br />
 Genes and genomes<br />
 
 ### Week 5 (November 21)
-Sequencing <br />
-Sequence alignment<br />
+Genome visualization
+Biopython intro
 
 ### Week 6 (November 28-30)
-Mitochondrial vs nuclear genomes <br />
+BLAST 
+Accessing GenBank from code
 
 ### Week 7 (December 5-7)
-Mitochondrial paper <br />
-GenBank and database review <br />
+Organism research
+Best sequence picker tool
 
 ### Week 8 (December 12-14)
-Fasta files
-Project organization
+Best sequence picker tool
 
 ### Week 9 (December 19-21) 
 Present on projects so far
