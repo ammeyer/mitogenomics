@@ -17,6 +17,9 @@
  * Present on what you have been doing in internships so far
  * You are strongly encouraged to go to the other interns presentations - Thursday 22nd
  * There will be food :) 
+* December 21st
+ * Debrief
+ * Secret snowflake
  
 * TODAY 
  * Group split up and research [Mollusca](https://en.wikipedia.org/wiki/Mollusca) and [Squamata](https://en.wikipedia.org/wiki/Squamata)
