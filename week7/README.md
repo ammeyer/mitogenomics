@@ -25,3 +25,9 @@
  * Group split up and research [Mollusca](https://en.wikipedia.org/wiki/Mollusca) and [Squamata](https://en.wikipedia.org/wiki/Squamata)
  * 5:45 present to rest of group
  * Begin to WRITE DOWN how to develop a tool for picking the best sequence from genbank downloads
+ * Be thinking about questions to ask Louise who we are meeting with on Wednesday
+
+### December 7 ###
+* Stand up
+* Meet with Louise
+* Sanity checks and redundancies 
