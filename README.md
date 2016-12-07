@@ -21,30 +21,30 @@ Evolution small picture<br />
 Genes and genomes<br />
 
 ### Week 5 (November 21)
-Genome visualization
-Biopython intro
+Genome visualization <br />
+Biopython intro <br />
 
 ### Week 6 (November 28-30)
-BLAST 
-Accessing GenBank from code
+BLAST <br />
+Accessing GenBank from code <br />
 
 ### Week 7 (December 5-7)
-Organism research
-Best sequence picker tool
+Organism research <br />
+Best sequence picker tool <br />
 
 ### Week 8 (December 12-14)
-SQL review and database design
-Begin working on presentations
+SQL review and database design <br />
+Begin working on presentations <br />
 
 ### Week 9 (December 19-21) 
-Present on projects so far
+Present on projects so far <br />
 
 ### Week 10 (January 9-11)
-Review
-Building databases
+Review <br />
+Building databases <br />
 
 ### Week 11 (January 16-18)
-Building databases
+Building databases <br />
 
 ### Week 12 (January 23-25)
-Filter fastas
+Filter fastas <br />
