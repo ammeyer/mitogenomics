@@ -33,17 +33,18 @@ Organism research
 Best sequence picker tool
 
 ### Week 8 (December 12-14)
-Best sequence picker tool
+SQL review and database design
+Begin working on presentations
 
 ### Week 9 (December 19-21) 
 Present on projects so far
 
 ### Week 10 (January 9-11)
 Review
-Python scripts to pull from GenBank
+Building databases
 
 ### Week 11 (January 16-18)
-Sanity checks + remove redundancies
+Building databases
 
 ### Week 12 (January 23-25)
-Choose best sequence
+Filter fastas
