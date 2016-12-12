@@ -40,6 +40,7 @@ Begin working on presentations <br />
 Present on projects so far <br />
 
 ### Week 10 (January 9-11)
+See collections - Jan 11 herp <br />
 Review <br />
 Building databases <br />
 
