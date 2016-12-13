@@ -45,7 +45,7 @@ Review <br />
 Building databases <br />
 
 ### Week 11 (January 16-18)
-See collections - Jan 16 decapoda
+See collections - Jan 18 decapoda
 Building databases <br />
 
 ### Week 12 (January 23-25)
